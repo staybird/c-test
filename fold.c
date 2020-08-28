@@ -21,6 +21,7 @@ main()
 		}
 }
 
+/* abc "///////*****/
 int get_line(char line[], int len)
 {
 	int i, c;
